@@ -23,7 +23,7 @@ pkgs.rofi-rbw.override (oldAttrs: {
 
 ## overrideAttrs example
 
-```
+```nix
 pkgs.hello.overrideAttrs {
   pname = "super hello";
 
